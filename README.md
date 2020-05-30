@@ -4,6 +4,8 @@ This app is created with react.js. The application has the following function on
 2) delete from the list.
 3) Search in the list.
 
+live on:[https://gowthamaraj-react-todo.netlify.app/](https://gowthamaraj-react-todo.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -24,6 +26,6 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Screenshot
-![](screenshots/app.jpg)
+![](screenshot/app.jpg)
 
 ##### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
